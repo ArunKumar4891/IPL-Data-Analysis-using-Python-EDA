@@ -71,21 +71,36 @@ The venue that hosted the maximum number of matches
 
 # Conclusion & actionable insights
 
-It is analyzed that the dataset has be splitted in "Teams", "Batsman", "Bowlers" and "Fielders"
-IPL is all about team performance and the team who is best on that current day will be the winners.
-Individual contributions plays a vital role in this modern game.
-Earlier IPL was a Batsman's game. Later, it proved wrong.
-Also IPL is all about young players/youngsters but, it is also a myth. Best example: 2018 Winners CSK with average age of players is 32.
-IPL is very success because of Cricket fans in INDIA.
-Mumbai Indians and Chennai Super Kings won the IPL title thrice, KKR won the title twice and RR, Deccan Charges and SRH won IPL once.
-RCB, Delhi Daredevils, Kings XI Punjab didn't win the IPL titles.
-RCB and Kings XI Punjab are runners twice and once respectively but, Delhi Daredevils didn't played finals yet.
-Mumbai Indian didn't scored highest runs in any IPL season but, still they won 3 titles. Consistent is very important in this game.
-Except 2014, the team who has Orange cap has never won the IPL title. Only Uthappa 2014 from KKR won the IPL title.
-S Raina holds the record of max runs and max catches taken (non-wicket keeper). This is also one of the example of winning the title thrice.
-Malinga has the max of wickets taken and that makes Mumbai Indians winning the title thrice.
-V Kolhi has the most half centuries in IPL and 2nd in Centuries and highest run getter. That's why we call him as a Run Machine.
-RCB, Delhi Daredevils, Kings XI Punjab need to change their strategies to win their maiden IPL title.
-Few teams are more dependent on few individual players to perform all time. Every player needs to be contributed.
+-It is analyzed that the dataset has be splitted in "Teams", "Batsman", "Bowlers" and "Fielders"
+
+- IPL is all about team performance and the team who is best on that current day will be the winners.
+
+- Individual contributions plays a vital role in this modern game.
+
+- Earlier IPL was a Batsman's game. Later, it proved wrong.
+
+- Also IPL is all about young players/youngsters but, it is also a myth. Best example: 2018 Winners CSK with average age of players is 32.
+
+- IPL is very success because of Cricket fans in INDIA.
+
+- Mumbai Indians and Chennai Super Kings won the IPL title thrice, KKR won the title twice and RR, Deccan Charges and SRH won IPL once.
+
+- RCB, Delhi Daredevils, Kings XI Punjab didn't win the IPL titles.
+
+- RCB and Kings XI Punjab are runners twice and once respectively but, Delhi Daredevils didn't played finals yet.
+
+- Mumbai Indian didn't scored highest runs in any IPL season but, still they won 3 titles. Consistent is very important in this game.
+
+- Except 2014, the team who has Orange cap has never won the IPL title. Only Uthappa 2014 from KKR won the IPL title.
+
+- S Raina holds the record of max runs and max catches taken (non-wicket keeper). This is also one of the example of winning the title thrice.
+
+- Malinga has the max of wickets taken and that makes Mumbai Indians winning the title thrice.
+
+- V Kolhi has the most half centuries in IPL and 2nd in Centuries and highest run getter. That's why we call him as a Run Machine.
+
+- RCB, Delhi Daredevils, Kings XI Punjab need to change their strategies to win their maiden IPL title.
+
+- Few teams are more dependent on few individual players to perform all time. Every player needs to be contributed.
 
 
